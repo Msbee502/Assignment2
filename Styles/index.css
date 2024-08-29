@@ -1,0 +1,54 @@
+h1 {color: rgb(9, 43, 168); 
+    font-size: 40px; 
+    font-style: italic;
+    font-family: Helvetica;
+    font-weight: 800;
+    text-align: center;
+    background-color: rgb(227,208,216);}
+h3 {color: rgb(217, 255, 0)}
+body {
+
+    background-image: url(../images/pexels-padrinan-255379.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 300vh;
+    background: url(../images/pexels-padrinan-255379.jpg) no-repeat center fixed; 
+}
+    
+img {
+
+    /*border-width: 10px; 
+    border-style: solid;
+    border-radius: 5px 10px 15px 20px;
+    Border-color: rgb(17, 17, 17);
+    box-shadow: 10px 10px 20px rgb(221, 124, 124);
+    border: 20px solid rgb(21, 0, 255);
+    border-bottom: 10px solid green;*/
+}
+
+    .puppies {
+        border: 5px solid grey;
+    }
+    
+    
+
+#stycke-3 {
+    color: purple;
+}; 
+
+
+
+p {
+    color: red;
+    color: yellow; 
+    color: orange;
+}
+
+.stycke-4 {
+    color: grey;
+}
+
+
+/* här kan man göra kommentarer*/
